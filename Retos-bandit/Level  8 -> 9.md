@@ -10,9 +10,16 @@ ssh bandit8@**bandit.labs.overthewire.org** -p2220
 user: bandit8
 pass: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 
+## NUEVA CONTRASENIA
+TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+
 # Solucion 
 bandit8@bandit:~$ cat data.txt | sort | uniq -u
 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+
+
+## NUEVA CONTRASENIA
+EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 
 
 # Notas adicionales

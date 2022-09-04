@@ -10,6 +10,9 @@ ssh bandit3@**bandit.labs.overthewire.org** -p2220
 user: bandit3
 pass: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 
+## NUEVA CONTRASENIA
+aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+
 # Solucion 
 bandit3@bandit:~$ ls
 inhere
@@ -19,6 +22,9 @@ bandit3@bandit:~/inhere$ ls -a
 .  ..  .hidden
 bandit3@bandit:~/inhere$ cat ./.hidden
 pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+
+## NUEVA CONTRASENIA
+2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 
 # Notas adicionales

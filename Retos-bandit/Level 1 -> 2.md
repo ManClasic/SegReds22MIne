@@ -10,12 +10,18 @@ ssh bandit1@**bandit.labs.overthewire.org** -p2220
 User: bandit1
 Pass: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
+## NUEVA CONTRASENIA
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+
 # Solucion 
 bandit1@bandit:~$ ls
 -
 bandit1@bandit:~$ cat ./-
 CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 bandit1@bandit:~$ 
+
+## NUEVA CONTRASENIA
+rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
 
 # Notas adicionales

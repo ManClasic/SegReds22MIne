@@ -14,6 +14,9 @@ ssh bandit6@**bandit.labs.overthewire.org** -p2220
 user: bandit6
 pass: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 
+## NUEVA CONTRASENIA
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+
 # Solucion 
 bandit6@bandit:~$ find / -readable -user bandit7 -group bandit6 -size 33c
 find: ‘/root’: Permission denied
@@ -76,6 +79,9 @@ find: ‘/var/cache/apt/archives/partial’: Permission denied
 find: ‘/var/cache/ldconfig’: Permission denied
 bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password
 HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+
+## NUEVA CONTRASENIA
+z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 
 
 # Notas adicionales

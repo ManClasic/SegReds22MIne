@@ -14,6 +14,9 @@ ssh bandit5@**bandit.labs.overthewire.org** -p2220
 user: bandit5
 pass: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
+## NUEVA CONTRASENIA
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+
 # Solucion 
 bandit5@bandit:~$ ls
 inhere
@@ -29,6 +32,8 @@ bandit5@bandit:~/inhere$ cd maybehere07
 bandit5@bandit:~/inhere/maybehere07$ cat ./.file2
 DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 
+## NUEVA CONTRASENIA
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 # Notas adicionales
 El comando FInd nos ayuda a buscar el archivo correcto con la opcion find -type t para buscar archivos legibles y f  -size 1033c especialmente c para bytes en tamanio.

@@ -10,6 +10,9 @@ ssh bandit4@**bandit.labs.overthewire.org** -p2220
 user: bandit4
 pass: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 
+## NUEVA CONTRASENIA
+2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+
 # Solucion 
 bandit4@bandit:~$ ls
 inhere
@@ -25,6 +28,9 @@ bandit4@bandit:~/inhere$ ls
 -file01  -file03  -file05  -file07  -file09
 bandit4@bandit:~/inhere$ cat ./-file07
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
+## NUEVA CONTRASENIA
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
 # Notas adicionales
 

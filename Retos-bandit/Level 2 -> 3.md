@@ -10,6 +10,9 @@ ssh bandit2@**bandit.labs.overthewire.org** -p2220
 user: bandit2
 pass: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 
+## NUEVA CONTRASENIA
+rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+
 # Solucion 
 bandit2@bandit:~$ nano 'spaces in this filename' 
 Unable to create directory /home/bandit2/.nano: Permission denied
@@ -19,6 +22,9 @@ Press Enter to continue
 
 bandit2@bandit:~$ 
 UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+
+##  NUEVA CONTRASENIA
+aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 
 
 # Notas adicionales
