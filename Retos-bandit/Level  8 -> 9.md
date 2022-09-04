@@ -7,7 +7,7 @@ The password for the next level is stored in the file **data.txt** and is the on
 # Datos de acceso
 ssh bandit8@**bandit.labs.overthewire.org** -p2220
 
-user: bandit88
+user: bandit8
 pass: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 
 # Solucion 
@@ -16,7 +16,7 @@ UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 
 
 # Notas adicionales
-Utilizamos las opciones de cat que es sort para ordenar los datos y uniq para que nos arroje el valor unicop que tiene de datos con el pipe |
+Utilizamos las opciones de cat que es sort para oSrdenar los datos y uniq para que nos arroje el valor unicop que tiene de datos con el pipe |
 
 
 # Referencias 
