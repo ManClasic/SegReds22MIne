@@ -18,6 +18,7 @@ pass: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 # Solucion 
+```bash
 bandit6@bandit:~$ find / -readable -user bandit7 -group bandit6 -size 33c
 find: ‘/root’: Permission denied
 find: ‘/home/bandit28-git’: Permission denied
@@ -79,6 +80,8 @@ find: ‘/var/cache/apt/archives/partial’: Permission denied
 find: ‘/var/cache/ldconfig’: Permission denied
 bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password
 HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+```
+
 
 ## NUEVA CONTRASENIA
 z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S

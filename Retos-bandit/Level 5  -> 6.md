@@ -18,6 +18,7 @@ pass: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
 # Solucion 
+```bash
 bandit5@bandit:~$ ls
 inhere
 bandit5@bandit:~$ cd inhere/
@@ -31,6 +32,8 @@ bandit5@bandit:~/inhere$ find -type f -size 1033c
 bandit5@bandit:~/inhere$ cd maybehere07
 bandit5@bandit:~/inhere/maybehere07$ cat ./.file2
 DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+```
+
 
 ## NUEVA CONTRASENIA
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU

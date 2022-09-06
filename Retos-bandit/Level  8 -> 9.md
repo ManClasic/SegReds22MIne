@@ -14,8 +14,10 @@ pass: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 
 # Solucion 
+```bash
 bandit8@bandit:~$ cat data.txt | sort | uniq -u
 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+```
 
 
 ## NUEVA CONTRASENIA

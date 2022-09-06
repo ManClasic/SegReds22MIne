@@ -14,6 +14,7 @@ pass: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
 # Solucion 
+```bash
 bandit2@bandit:~$ nano 'spaces in this filename' 
 Unable to create directory /home/bandit2/.nano: Permission denied
 It is required for saving/loading search history or cursor positions.
@@ -22,6 +23,7 @@ Press Enter to continue
 
 bandit2@bandit:~$ 
 UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+```
 
 ##  NUEVA CONTRASENIA
 aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG

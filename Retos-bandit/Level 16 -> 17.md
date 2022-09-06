@@ -11,6 +11,7 @@ user: bandit16
 pass: JQttfApK4SeyHwDlI9SXGR50qclOAil1
 
 # Solucion 
+```bash
 ## Paso 1
 nmap localhost -p 31000-32000
 Starting Nmap 7.80 ( https://nmap.org ) at 2022-09-04 06:15 UTC
@@ -204,6 +205,7 @@ Connection to bandit.labs.overthewire.org closed.
 ## Paso 6 [opcional]
 bandit17@bandit:~$ cat /etc/bandit_pass/bandit17
 VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
+```
 
 # Notas adicionales
 En este nivel tenemos que escanear que puertos estan abiertos del 3100  al 3200 y de esos cuales se pueden conectar por medio de openssl.

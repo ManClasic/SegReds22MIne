@@ -13,6 +13,7 @@ user: bandit15
 pass: jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 
 # Solucion 
+```bash
 openssl s_client -connect localhost:30001 -ign_eof
 CONNECTED(00000003)
 Can't use SSL_get_servername
@@ -146,6 +147,7 @@ Correct!
 JQttfApK4SeyHwDlI9SXGR50qclOAil1
 
 closed
+```
 
 # Notas adicionales
 Este nivel es parecido al anterior solamente que en este caso usaremos openssl para conectarnos al puerto 3001 y agregaremos ”-ign eof” al final del comando para saber si nos funciona la conexion. Le daremos la contrasenia actual y nos dara la contrasenia siguiente.

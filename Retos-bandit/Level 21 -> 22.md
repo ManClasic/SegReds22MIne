@@ -13,6 +13,7 @@ user: bandit21
 pass: NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
 
 # Solucion 
+```bash
 bandit21@bandit:~$ ls -la
 total 24
 drwxr-xr-x  2 root     root     4096 Sep  1 06:30 .
@@ -30,6 +31,7 @@ chmod 644 /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 cat /etc/bandit_pass/bandit22 > /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 bandit21@bandit:~$ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 [WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff]
+```
 
 # Notas adicionales
 En este nivel ocupamos  checar los scrips que estan programados para poder acceder a la ruta adecuada esto automatiza los procesos y servicios.

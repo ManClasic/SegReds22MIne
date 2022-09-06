@@ -11,6 +11,7 @@ user: bandit13
 pass: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
 # Solucion 
+```bash
 ## Primer paso
 bandit13@bandit:~$ ls
 sshkey.private
@@ -59,6 +60,7 @@ Connection to bandit.labs.overthewire.org closed.
 
 bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
+```
 
 # Notas adicionales
 Por medio de la sshPrivate nno nos dejaba entrar desde el usuario Bandit13. Por lo que se opto guardar la sshPrivate que nos daban en bandit13, para posteriormente guardarla y cambiarle los permisos. Teniendo eso nos logueamos al usuario Bandit14 usando el ssh en archivo.

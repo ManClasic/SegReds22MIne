@@ -15,13 +15,14 @@ pass: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 
 # Solucion 
+```bash
 bandit9@bandit:~$ cat  data.txt  | strings | grep ==
 ========== the
 bu========== password
 4iu========== is
 b~==P
 ========== G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
-
+```
 
 # Notas adicionales
 Apartir  de este reto fallo bandit y tuvimos que volver a sacar las contrasenias anteriores.

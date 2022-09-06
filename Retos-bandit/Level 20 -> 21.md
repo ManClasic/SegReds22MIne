@@ -13,6 +13,7 @@ user: bandit20
 pass: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 
 # Solucion 
+```bash
 bandit20@bandit:~$ ls
 suconnect
 bandit20@bandit:~$ nc -lnvp 3030 <<< VxCazJaVykI6W36BkBU0mJTCM8rR95XT &
@@ -27,6 +28,8 @@ Read: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 Password matches, sending next password
 [NvEJF7oVjkddltPSrdKEFOllh9V1IBcq]
 [1]+  Done                    nc -lnvp 3030 <<< VxCazJaVykI6W36BkBU0mJTCM8rR95XT
+
+```
 
 # Notas adicionales
 En este nivel necesitaremos abrir un puerto, mandarlo a segundo plano junto  con la contrasenia actual para despues conectarnos a ese mismos puerto y nos arrojara la contrasenia nueva para el siguiente nivel.

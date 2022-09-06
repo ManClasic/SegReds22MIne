@@ -14,8 +14,10 @@ pass: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 
 # Solucion 
+```bash
 bandit7@bandit:~$ cat data.txt | grep millionth
 millionth       cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+```
 
 ## NUEVA CONTRASENIA
 TESKZC0XvTetK0S9xNwm25STk5iWrBvP

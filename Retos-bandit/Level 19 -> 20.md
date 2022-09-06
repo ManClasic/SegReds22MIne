@@ -11,6 +11,7 @@ user: bandit19
 pass: awhqfNnAbc1naukrpqDYcF95h7HoMTrC
 
 # Solucion 
+```bash
 bandit19@bandit:~$ ls
 bandit20-do
 bandit19@bandit:~$ id
@@ -22,6 +23,7 @@ bandit19@bandit:~$ ./bandit20-do id
 uid=11019(bandit19) gid=11019(bandit19) euid=11020(bandit20) groups=11019(bandit19)
 bandit19@bandit:~$ ./bandit20-do cat /etc/bandit_pass/bandit20 
 VxCazJaVykI6W36BkBU0mJTCM8rR95XT
+```
 
 # Notas adicionales
 Abriendo el túnel SSH tenemos un archivo llamado bandit20-do. Este es el entorno que podemos usar para disfrazarnos de bandit20

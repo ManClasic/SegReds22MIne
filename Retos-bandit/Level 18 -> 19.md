@@ -11,6 +11,7 @@ user: bandit18
 pass: hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
 
 # Solucion 
+```bash
 ┌──(masterfer㉿PcMaster)-[~]
 └─$ sshpass ssh nivel18 bandit18@bandit.labs.overthewire.org -p 2220 "/bin/bash"
                          _                     _ _ _   
@@ -25,6 +26,7 @@ pass: hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
 
 cat readme
 awhqfNnAbc1naukrpqDYcF95h7HoMTrC
+```
 
 # Notas adicionales
 En este nivel no se puede accceder porque modificaron el archivo bash y nos saca del servidor.

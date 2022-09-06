@@ -14,6 +14,7 @@ pass: RSA Key Generated
 [or  VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e]
 
 # Solucion 
+```bash
 bandit17@bandit:~$ ls
 passwords.new  passwords.old
 bandit17@bandit:~$ diff passwords.new passwords.old 
@@ -22,7 +23,7 @@ bandit17@bandit:~$ diff passwords.new passwords.old
 ------
 < 09wUIyMU4YhOzl1Lzxoz0voIBzZ2TUAf
 -----
-
+```
 # Notas adicionales
 Para este nivel debemos comparar en los dos archivos cual es la contrasenia correcta y nos quedamos con la primera, ya que la usamos primero en nuestra cadena de comando, es la que queremos.
 

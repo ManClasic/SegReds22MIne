@@ -11,9 +11,10 @@ user: bandit12
 pass: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 
 # Solucion 
+```bash
 bandit12@bandit:~$ cat data.txt | xxd -r | zcat  | bzcat | zcat | tar xO | tar xO  | bzcat | tar xO | zcat
 The password is wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
-
+```
 
 # Notas adicionales
 Aqui  utilizamos el comando para desempaquetar el archivo varias  veces mostrandolo en la pantalla  y sin la necesidad de crear un archivo  nuevo.

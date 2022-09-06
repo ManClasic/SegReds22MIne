@@ -10,10 +10,12 @@ The username is **bandit0**
 the password is **bandit0**
 
 # Solucion
+```bash
 bandit0@bandit:~$ ls
 readme
 bandit0@bandit:~$ cat readme
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+```
 
 ## NUEVA CONTRASENIA
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
