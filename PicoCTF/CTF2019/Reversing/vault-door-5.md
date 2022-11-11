@@ -11,7 +11,18 @@ Read the wikipedia articles on URL encoding and base 64 encoding to understand h
 ## Solucion
 ```bash
 
+    public boolean checkPassword(String password) {
+        String urlEncoded = urlEncode(password.getBytes());
+        String base64Encoded = base64Encode(urlEncoded.getBytes());
+        String expected = "JTYzJTMwJTZlJTc2JTMzJTcyJTc0JTMxJTZlJTY3JTVm"
+                        + "JTY2JTcyJTMwJTZkJTVmJTYyJTYxJTM1JTY1JTVmJTM2"
+                        + "JTM0JTVmJTMwJTYyJTM5JTM1JTM3JTYzJTM0JTY2";
+        return base64Encoded.equals(expected);
 
+
+En cyberchef
+
+picoCTF{c0nv3rt1ng_fr0m_ba5e_64_0b957c4f}
 ```
 
 
